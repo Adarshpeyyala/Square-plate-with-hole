@@ -1,0 +1,11 @@
+Run the main.m file to get the output related to inputs given in preprocessor 
+
+
+
+for changing no of elements per each side 
+go to pre_processer and select the type of mesh by changing the "Mesh_type";
+  
+
+for changing the nature of load on each side 
+ go to pre_processer and select the type of loading by changing the "Load_type",
+ and give the load value at each end point [(Tx_1 and Tx_2  along x-axis) and (Ty_1 and Ty_2  along y-axis)] of the edge on which  load is implementing and for increasing load and decreasing load change the values of variables p and q
